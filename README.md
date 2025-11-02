@@ -13,6 +13,6 @@ Team member : Joice Brijitha J
 
 Team member : Liginsha Vaz J
 
-Servicenow Instance:https://dev221186.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3D8fbbdb37c370721017ff12f1b401318e
+Servicenow Instance:https:https://dev221186.service-now.com/login.do?user_name=admin&sys_action=sysverb_login&user_password=03iXi*zO%2BmPT
 
 Demo Link:https://drive.google.com/file/d/1kuA8UTxFQBkmbAjs8DfCc6JiUixibPhx/view?usp=sharing
